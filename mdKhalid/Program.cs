@@ -12,6 +12,8 @@ namespace mdKhalid
         {
             Console.WriteLine("My Name is Khalid");
             Console.WriteLine("This is my 2nd commit");
+            Console.WriteLine("This is my 2nd commit");
+
         }
     }
 }
