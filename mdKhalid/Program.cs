@@ -10,6 +10,7 @@ namespace mdKhalid
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("My Name is Khalid");
         }
     }
 }
